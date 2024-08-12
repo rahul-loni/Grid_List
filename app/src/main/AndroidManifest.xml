@@ -16,10 +16,10 @@
             android:name=".Full_Image"
             android:exported="false" />
         <activity
-            android:name=".GridPage"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".GridPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
